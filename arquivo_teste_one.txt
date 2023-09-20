@@ -1,3 +1,7 @@
 teste de primeiro commit.
 acrescentando linha.
+<<<<<<< HEAD
 acrescentando nova linha. 
+=======
+acrescentando nova linha.
+>>>>>>> 583d536f91e943ebbdb7e785a5b908fe2d48bf5e

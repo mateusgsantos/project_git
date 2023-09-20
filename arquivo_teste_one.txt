@@ -1,3 +1,4 @@
 teste de primeiro commit.
 acrescentando linha.
-acrescentando nova lina.
+acrescentando nova linha.
+acrescentando nova linha.
